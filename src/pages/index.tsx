@@ -48,7 +48,7 @@ export default function Home() {
       </Product>
 
       <Product className="keen-slider__slide">
-        <Image src={camiseta3} width={520} height={480} alt={""} />
+        <Image src={camiseta4} width={520} height={480} alt={""} />
 
         <footer>
           <strong>Camiseta X</strong>

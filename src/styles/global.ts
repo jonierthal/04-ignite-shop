@@ -4,6 +4,7 @@ export const globalStyles = globalCss({
     '*': { //Todos os elementos da página
         margin: 0,
         padding: 0,
+        boxSizing: 'border-box',
     },
 
     body: {
@@ -16,5 +17,5 @@ export const globalStyles = globalCss({
         fontFamily: 'Roboto',
         fontWeight: 400,
     },
-
+    
 })

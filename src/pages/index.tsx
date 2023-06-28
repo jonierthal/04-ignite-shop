@@ -42,6 +42,7 @@ export default function Home({ products }: HomeProps) {
                 <span>{product.price}</span>
               </footer>
             </Product>
+            
           </Link>
         )
       })}
